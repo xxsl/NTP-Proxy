@@ -1,4 +1,4 @@
-BINARIES=sls ntpproxy
+BINARIES=sls ntpproxy clock
 
 .PHONY: clean
 
