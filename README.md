@@ -3,6 +3,7 @@
 Latest update: 6 April 2015
 
 Initial release:  [Robert Karbowski](mailto:rkarbowski@amadeus.com)
+
 Special release:  [XXSL](mailto:xxslkid@gmail.com)
 
 ## Table of Contents
